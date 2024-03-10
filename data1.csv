@@ -1,0 +1,412 @@
+﻿Age,Gender,Marital,Religion,#members,Readwrite,Qualification,Occupation,Income_source,Electricity,Toilet,Type_Toilet,Land,Income,Loan
+31,Male,Married,Hindu,4,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Kachchi,1 ha,10-25000,No
+40,Male,Married,Hindu,6,Both Not Read & Write,Illiterate,Wage,No,Yes,No, ,No land,<5000,No
+30,Female,Married,Hindu,6,Both Read & Write,Literate,Wage,No,Yes,Yes,Kachchi,No land,5-10000,No
+30,Female,Married,Hindu,5,Both Read & Write,School Level,Wage,No,Yes,Yes,Kachchi,No land,5-10000,No
+38,Male,Married,Hindu,5,Both Read & Write,School Level,Wage,No,Yes,Yes,Kachchi,No land,5-10000,No
+39,Female,Married,Hindu,4,Both Not Read & Write,Illiterate,Wage,No,Yes,No, ,No land,5-10000,No
+47,Female,Married,Hindu,7,Both Read & Write,Literate,Wage,No,Yes,Yes,Kachchi,No land,5-10000,No
+55,Female,Married,Hindu,3,Both Read & Write,Literate,Agriculture,No,No,Yes,Kachchi,No land,5-10000,No
+53,Male,Married,Hindu,8,Both Read & Write,School Level,Wage,No,Yes,Yes,Kachchi,No land,5-10000,No
+40,Male,Married,Hindu,7,Both Read & Write,Literate,Wage,No,Yes,No, ,No land,10-25000,No
+59,Female,Married,Hindu,2,Both Read & Write,Literate,Wage,No,Yes,No, ,No land,10-25000,No
+49,Female,Married,Hindu,7,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,No land,10-25000,No
+58,Male,Married,Hindu,4,Both Read & Write,Literate,Wage,No,Yes,Yes,Kachchi,No land,10-25000,No
+20,Male,Unmarried,Hindu,6,Both Read & Write,School Level,Wage,No,Yes,Yes,Kachchi,>1 ha,<5000,No
+63,Male,Married,Hindu,7,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,>1 ha,5-10000,No
+41,Male,Married,Hindu,5,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,>1 ha,5-10000,No
+45,Male,Married,Hindu,8,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+31,Male,Married,Hindu,3,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+48,Female,Married,Hindu,6,Both Read & Write,Literate,Wage,No,Yes,Yes,Kachchi,1 ha,5-10000,No
+44,Female,Married,Hindu,8,Both Read & Write,Literate,Agriculture,No,Yes,No, ,1 ha,5-10000,No
+40,Female,Married,Hindu,4,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+20,Male,Unmarried,Hindu,7,Both Read & Write,School Level,Others,No,Yes,Yes,Kachchi,1 ha,10-25000,No
+34,Male,Married,Hindu,5,Both Read & Write,School Level,Wage,No,Yes,Yes,Pakki,1 ha,10-25000,No
+26,Male,Married,Hindu,8,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Kachchi,1 ha,10-25000,Yes
+35,Male,Married,Hindu,5,Both Read & Write,Plus Two,Private Job,No,Yes,Yes,Pakki,1 ha,>25000,No
+36,Female,Married,Hindu,6,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+43,Male,Married,Hindu,6,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,1 ha,10-25000,No
+36,Female,Married,Hindu,1,Both Read & Write,Bachelor,Wage,No,Yes,Yes,Pakki,1 ha,5-10000,No
+34,Female,Married,Hindu,3,Both Not Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,1 ha,10-25000,Yes
+36,Male,Married,Hindu,7,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Kachchi,1 ha,5-10000,No
+68,Male,Married,Hindu,5,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+33,Male,Married,Hindu,7,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,Yes
+40,Male,Married,Buddhist,8,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Kachchi,1 ha,>25000,No
+56,Male,Married,Hindu,6,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,>25000,No
+23,Male,Married,Hindu,7,Both Read & Write,Bachelor,Private Job,Yes,Yes,Yes,Pakki,>1 ha,5-10000,No
+55,Female,Married,Hindu,7,Both Read & Write,Literate,Households,No,Yes,Yes,Kachchi,1 ha,10-25000,No
+36,Male,Married,Buddhist,8,Both Read & Write,Master or above,Agriculture,Yes,Yes,Yes,Pakki,1 ha,>25000,No
+41,Male,Married,Buddhist,4,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+24,Male,Unmarried,Hindu,5,Both Read & Write,Plus Two,Business,No,Yes,Yes,Pakki,1 ha,10-25000,No
+20,Female,Unmarried,Hindu,6,Both Read & Write,Plus Two,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+59,Male,Married,Hindu,11,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,1 ha,10-25000,No
+50,Male,Married,Hindu,7,Both Not Read & Write,Illiterate,Wage,No,No,No, ,No land,5-10000,No
+45,Female,Married,Hindu,2,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,No land,<5000,No
+46,Female,Married,Hindu,6,Both Read & Write,Literate,Wage,No,Yes,Yes,Kachchi,No land,<5000,No
+24,Female,Married,Hindu,4,Both Read & Write,Literate,Wage,No,Yes,Yes,Kachchi,No land,<5000,No
+20,Female,Married,Hindu,1,Both Read & Write,Literate,Wage,No,Yes,Yes,Kachchi,No land,<5000,No
+39,Female,Married,Hindu,5,Both Read & Write,Illiterate,Wage,No,Yes,Yes,Kachchi,No land,<5000,No
+35,Female,Married,Hindu,6,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Kachchi,No land,<5000,No
+75,Female,Widowed,Hindu,6,Both Not Read & Write,Illiterate,Wage,No,Yes,No, ,No land,<5000,No
+60,Female,Widowed,Hindu,8,Both Not Read & Write,Illiterate,Wage,No,Yes,Yes,Kachchi,No land,<5000,No
+50,Male,Married,Hindu,6,Both Not Read & Write,Illiterate,Wage,No,Yes,Yes,Kachchi,No land,<5000,No
+39,Male,Married,Hindu,4,Both Not Read & Write,Illiterate,Wage,No,Yes,Yes,Kachchi,No land,<5000,No
+43,Male,Married,Hindu,4,Both Not Read & Write,Illiterate,Wage,No,Yes,Yes,Kachchi,No land,<5000,No
+30,Male,Married,Hindu,3,Both Not Read & Write,Illiterate,Wage,No,Yes,Yes,Kachchi,No land,<5000,No
+45,Male,Married,Hindu,3,Both Not Read & Write,Illiterate,Wage,No,Yes,Yes,Kachchi,No land,<5000,No
+45,Female,Married,Hindu,6,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,No land,<5000,No
+37,Female,Married,Hindu,5,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,No land,<5000,No
+45,Female,Married,Hindu,5,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,No land,<5000,No
+36,Male,Married,Hindu,6,Both Not Read & Write,Illiterate,Wage,No,Yes,Yes,Kachchi,No land,<5000,No
+65,Female,Married,Hindu,4,Both Not Read & Write,Illiterate,Wage,No,Yes,No, ,No land,<5000,No
+36,Female,Widowed,Muslim,9,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,No land,5-10000,No
+40,Female,Married,Hindu,4,Both Read & Write,Literate,Wage,No,Yes,Yes,Kachchi,No land,5-10000,No
+25,Female,Married,Hindu,3,Both Read & Write,Plus Two,Wage,No,Yes,Yes,Kachchi,No land,5-10000,No
+40,Female,Married,Hindu,4,Both Read & Write,Literate,Wage,No,Yes,Yes,Pakki,No land,5-10000,No
+35,Male,Married,Hindu,7,Both Read & Write,Literate,Business,No,Yes,Yes,Kachchi,No land,5-10000,No
+25,Female,Married,Hindu,6,Both Read & Write,Literate,Wage,No,No,No, ,No land,5-10000,No
+38,Male,Married,Hindu,6,Both Not Read & Write,Illiterate,Wage,No,Yes,No, ,No land,5-10000,No
+55,Female,Married,Hindu,7,Both Not Read & Write,Illiterate,Wage,No,Yes,Yes,Kachchi,No land,5-10000,No
+30,Female,Married,Hindu,3,Both Read & Write,School Level,Wage,No,Yes,Yes,Kachchi,No land,5-10000,No
+45,Male,Married,Hindu,5,Both Read & Write,School Level,Wage,No,Yes,No, ,No land,5-10000,No
+44,Male,Married,Hindu,5,Both Read & Write,Literate,Wage,No,Yes,Yes,Kachchi,No land,5-10000,No
+48,Male,Married,Hindu,6,Both Not Read & Write,Illiterate,Wage,No,No,Yes,Kachchi,No land,5-10000,No
+66,Male,Married,Hindu,2,Both Not Read & Write,Illiterate,Wage,No,Yes,Yes,Kachchi,No land,5-10000,No
+49,Female,Married,Hindu,6,Both Not Read & Write,Literate,Wage,Yes,Yes,Yes,Pakki,No land,5-10000,No
+61,Female,Married,Hindu,13,Both Not Read & Write,Illiterate,Wage,No,No,No, ,No land,5-10000,No
+52,Male,Married,Hindu,6,Both Not Read & Write,Illiterate,Wage,No,Yes,No, ,No land,5-10000,No
+60,Male,Married,Hindu,5,Both Not Read & Write,Illiterate,Wage,No,No,No, ,No land,5-10000,No
+78,Male,Married,Hindu,2,Both Not Read & Write,Illiterate,Agriculture,No,Yes,Yes,Kachchi,No land,5-10000,No
+47,Male,Married,Hindu,6,Both Read & Write,Literate,Wage,No,Yes,Yes,Kachchi,No land,5-10000,No
+60,Female,Married,Hindu,3,Both Not Read & Write,Illiterate,Wage,No,Yes,Yes,Kachchi,No land,5-10000,No
+36,Female,Married,Hindu,5,Both Not Read & Write,Illiterate,Government Job,Yes,No,Yes,Pakki,No land,5-10000,No
+65,Female,Married,Hindu,1,Both Read & Write,Literate,Wage,No,Yes,Yes,Kachchi,No land,10-25000,No
+30,Female,Married,Hindu,4,Both Read & Write,Literate,Wage,No,Yes,No, ,No land,10-25000,No
+39,Female,Married,Hindu,5,Both Read & Write,School Level,Wage,No,Yes,Yes,Kachchi,No land,10-25000,No
+32,Male,Married,Hindu,7,Both Read & Write,Plus Two,Government Job,Yes,Yes,Yes,Pakki,No land,10-25000,No
+51,Male,Married,Hindu,5,Both Not Read & Write,Illiterate,Wage,No,Yes,No, ,No land,10-25000,No
+22,Male,Married,Hindu,8,Both Read & Write,School Level,Wage,No,Yes,Yes,Pakki,No land,10-25000,No
+35,Male,Married,Hindu,6,Both Read & Write,School Level,Wage,No,Yes,No, ,No land,10-25000,No
+63,Male,Married,Hindu,7,Both Not Read & Write,Illiterate,Agriculture,No,Yes,Yes,Pakki,No land,10-25000,No
+49,Male,Married,Hindu,7,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,No land,10-25000,No
+35,Male,Married,Hindu,5,Both Not Read & Write,Illiterate,Agriculture,No,Yes,Yes,Kachchi,No land,10-25000,No
+35,Male,Married,Hindu,5,Both Read & Write,Literate,Wage,No,Yes,Yes,Kachchi,No land,10-25000,No
+40,Male,Married,Hindu,6,Both Read & Write,School Level,Wage,No,No,Yes,Kachchi,No land,10-25000,No
+60,Male,Married,Hindu,7,Both Read & Write,Literate,Wage,No,Yes,Yes,Pakki,No land,10-25000,No
+39,Male,Married,Hindu,6,Both Not Read & Write,Illiterate,Wage,No,Yes,Yes,Pakki,No land,10-25000,No
+45,Female,Seperated,Hindu,1,Both Read & Write,Literate,Wage,No,Yes,Yes,Kachchi,No land,10-25000,No
+21,Male,Unmarried,Hindu,4,Both Read & Write,School Level,Wage,No,Yes,Yes,Kachchi,No land,10-25000,No
+60,Male,Married,Hindu,2,Both Read & Write,Literate,Wage,No,Yes,Yes,Kachchi,No land,10-25000,No
+61,Male,Married,Hindu,3,Both Not Read & Write,Illiterate,Wage,No,Yes,Yes,Kachchi,No land,10-25000,No
+63,Male,Married,Hindu,1,Both Not Read & Write,Illiterate,Wage,No,Yes,Yes,Kachchi,No land,10-25000,No
+55,Female,Married,Hindu,6,Both Read & Write,School Level,Wage,No,Yes,Yes,Kachchi,No land,10-25000,No
+25,Male,Married,Hindu,4,Both Read & Write,School Level,Wage,No,Yes,Yes,Kachchi,No land,10-25000,No
+53,Male,Married,Hindu,2,Both Read & Write,School Level,Wage,No,Yes,Yes,Kachchi,No land,10-25000,No
+53,Male,Married,Hindu,3,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,No land,10-25000,No
+33,Male,Married,Hindu,7,Both Read & Write,Literate,Wage,No,Yes,Yes,Pakki,No land,10-25000,No
+36,Female,Married,Hindu,7,Both Read & Write,Literate,Wage,No,Yes,Yes,Pakki,No land,10-25000,No
+44,Male,Married,Hindu,4,Both Read & Write,School Level,Wage,No,Yes,Yes,Pakki,No land,10-25000,No
+37,Female,Married,Hindu,6,Both Read & Write,Literate,Wage,No,Yes,No, ,No land,10-25000,No
+50,Female,Married,Hindu,3,Both Read & Write,Literate,Wage,No,Yes,No, ,No land,10-25000,No
+40,Female,Married,Hindu,3,Both Not Read & Write,Illiterate,Wage,No,Yes,No, ,No land,10-25000,No
+24,Male,Married,Hindu,6,Both Read & Write,School Level,Wage,No,Yes,Yes,Kachchi,No land,10-25000,Yes
+27,Male,Married,Hindu,4,Both Read & Write,Literate,Wage,No,Yes,Yes, ,No land,10-25000,Yes
+28,Male,Married,Hindu,3,Only Read,Literate,Business,No,Yes,Yes,Kachchi,No land,>25000,No
+36,Male,Married,Hindu,5,Both Read & Write,Literate,Government Job,Yes,Yes,Yes,Pakki,No land,5-10000,No
+30,Female,Married,Hindu,4,Both Read & Write,School Level,Wage,No,Yes,Yes,Kachchi,No land,10-25000,No
+38,Female,Married,Hindu,5,Both Read & Write,Bachelor,Government Job,Yes,Yes,Yes,Pakki,No land,>25000,No
+40,Female,Married,Hindu,6,Both Not Read & Write,Illiterate,Agriculture,No,Yes,Yes,Pakki,>1 ha,5-10000,No
+33,Female,Married,Hindu,4,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,>1 ha,5-10000,No
+40,Female,Married,Hindu,5,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,>1 ha,10-25000,No
+21,Male,Married,Hindu,6,Both Read & Write,Plus Two,Agriculture,No,Yes,Yes,Pakki,>1 ha,5-10000,No
+25,Male,Unmarried,Hindu,6,Both Read & Write,Plus Two,Agriculture,No,Yes,Yes,Pakki,>1 ha,5-10000,No
+47,Male,Married,Hindu,5,Both Read & Write,Bachelor,Agriculture,No,Yes,Yes,Pakki,>1 ha,5-10000,No
+30,Male,Married,Hindu,8,Both Read & Write,Plus Two,Agriculture,No,Yes,Yes,Pakki,>1 ha,5-10000,No
+24,Male,Married,Hindu,8,Both Read & Write,Plus Two,Private Job,No,Yes,Yes,Pakki,>1 ha,5-10000,No
+80,Male,Married,Hindu,6,Both Not Read & Write,Illiterate,Agriculture,No,Yes,Yes,Pakki,>1 ha,5-10000,No
+29,Male,Unmarried,Hindu,4,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,>1 ha,5-10000,No
+29,Female,Married,Hindu,4,Both Read & Write,Plus Two,Agriculture,No,Yes,Yes,Pakki,>1 ha,5-10000,No
+43,Female,Married,Hindu,5,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,>1 ha,5-10000,No
+45,Male,Married,Hindu,5,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,>1 ha,5-10000,No
+45,Male,Married,Hindu,5,Both Read & Write,Plus Two,Agriculture,No,Yes,Yes,Pakki,>1 ha,5-10000,No
+51,Male,Married,Hindu,7,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,>1 ha,10-25000,No
+42,Male,Married,Hindu,5,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,>1 ha,10-25000,No
+29,Male,Married,Hindu,8,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,>1 ha,10-25000,No
+48,Male,Married,Hindu,7,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,>1 ha,10-25000,No
+45,Male,Married,Hindu,4,Both Read & Write,School Level,Business,No,Yes,Yes,Pakki,>1 ha,10-25000,No
+45,Male,Married,Hindu,5,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,>1 ha,10-25000,No
+20,Female,Unmarried,Hindu,1,Only Read,Literate,Agriculture,No,Yes,Yes,Pakki,>1 ha,10-25000,No
+47,Female,Married,Hindu,7,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,>1 ha,10-25000,No
+55,Male,Married,Hindu,6,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,>1 ha,10-25000,No
+41,Male,Married,Hindu,4,Both Read & Write,Plus Two,Government Job,Yes,Yes,Yes,Pakki,>1 ha,>25000,No
+60,Male,Married,Hindu,7,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,>1 ha,>25000,No
+20,Male,Unmarried,Hindu,6,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,>1 ha,>25000,No
+39,Male,Married,Hindu,7,Both Read & Write,Master or above,Government Job,Yes,Yes,Yes,Pakki,>1 ha,>25000,No
+49,Male,Married,Buddhist,9,Both Read & Write,Bachelor,Government Job,Yes,Yes,Yes,Pakki,>1 ha,>25000,No
+20,Female,Married,Hindu,3,Both Read & Write,Plus Two,Agriculture,No,Yes,Yes,Kachchi,1 ha,<5000,No
+50,Female,Widowed,Hindu,3,Both Not Read & Write,Illiterate,Wage,No,Yes,Yes,Pakki,1 ha,<5000,No
+25,Male,Married,Hindu,7,Both Read & Write,Bachelor,Agriculture,No,Yes,Yes,Pakki,1 ha,<5000,Yes
+47,Female,Married,Hindu,7,Both Read & Write,School Level,Government Job,Yes,Yes,Yes,Pakki,1 ha,5-10000,No
+31,Female,Unmarried,Hindu,6,Both Read & Write,Plus Two,Government Job,Yes,Yes,Yes,Pakki,1 ha,5-10000,No
+37,Female,Married,Hindu,5,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+30,Male,Married,Hindu,10,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+54,Male,Married,Buddhist,10,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+36,Female,Married,Hindu,5,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+20,Male,Unmarried,Buddhist,4,Both Read & Write,Plus Two,Wage,No,Yes,Yes,Pakki,1 ha,5-10000,No
+49,Male,Married,Hindu,6,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,1 ha,5-10000,No
+28,Male,Married,Buddhist,7,Both Read & Write,Plus Two,Business,No,Yes,Yes,Kachchi,1 ha,5-10000,No
+32,Female,Married,Hindu,6,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+38,Male,Married,Hindu,6,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+66,Female,Married,Hindu,4,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+67,Male,Married,Hindu,7,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+40,Male,Married,Buddhist,6,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+45,Male,Married,Hindu,5,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+22,Male,Married,Hindu,7,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Kachchi,1 ha,5-10000,No
+22,Female,Married,Hindu,5,Both Read & Write,Plus Two,Agriculture,No,Yes,Yes,Kachchi,1 ha,5-10000,No
+41,Male,Married,Hindu,5,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+50,Male,Married,Hindu,5,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+24,Female,Married,Hindu,7,Both Read & Write,Literate,Private Job,No,Yes,Yes,Pakki,1 ha,5-10000,No
+43,Male,Married,Buddhist,4,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+72,Male,Married,Hindu,2,Both Not Read & Write,Illiterate,Agriculture,No,Yes,Yes,Kachchi,1 ha,5-10000,No
+49,Male,Married,Hindu,6,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Kachchi,1 ha,5-10000,No
+49,Male,Married,Hindu,4,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Kachchi,1 ha,5-10000,No
+37,Male,Married,Hindu,4,Both Read & Write,Plus Two,Government Job,Yes,Yes,Yes,Pakki,1 ha,5-10000,No
+50,Female,Widowed,Hindu,6,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+70,Male,Married,Hindu,11,Both Not Read & Write,Illiterate,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+47,Female,Married,Hindu,6,Both Read & Write,Literate,Agriculture,No,Yes,No, ,1 ha,5-10000,No
+40,Male,Married,Hindu,5,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+55,Male,Married,Hindu,12,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,1 ha,5-10000,Yes
+58,Male,Married,Hindu,8,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,1 ha,5-10000,Yes
+41,Male,Married,Hindu,6,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,1 ha,5-10000,Yes
+45,Male,Married,Hindu,10,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Kachchi,1 ha,5-10000,Yes
+34,Female,Married,Hindu,4,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Kachchi,1 ha,5-10000,Yes
+45,Female,Married,Hindu,5,Both Read & Write,Literate,Business,No,Yes,Yes,Pakki,1 ha,10-25000,No
+23,Female,Married,Hindu,4,Both Read & Write,Plus Two,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+42,Male,Married,Hindu,4,Both Read & Write,School Level,Private Job,No,Yes,Yes,Pakki,1 ha,10-25000,No
+42,Male,Married,Hindu,4,Both Read & Write,School Level,Private Job,No,Yes,Yes,Pakki,1 ha,10-25000,No
+31,Male,Married,Hindu,4,Both Read & Write,Plus Two,Private Job,No,Yes,Yes,Pakki,1 ha,10-25000,No
+32,Male,Married,Hindu,4,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+56,Male,Married,Hindu,6,Both Not Read & Write,Illiterate,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+57,Female,Married,Hindu,5,Both Not Read & Write,Illiterate,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+57,Female,Married,Hindu,5,Both Not Read & Write,Illiterate,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+29,Male,Married,Hindu,6,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+33,Male,Married,Hindu,6,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+32,Male,Married,Buddhist,5,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+32,Male,Married,Buddhist,5,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+26,Female,Married,Hindu,5,Both Read & Write,Plus Two,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+31,Male,Married,Hindu,6,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Kachchi,1 ha,10-25000,No
+42,Female,Married,Hindu,5,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+25,Male,Married,Hindu,6,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+30,Male,Married,Hindu,5,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+39,Female,Married,Hindu,8,Both Read & Write,Literate,Wage,No,Yes,Yes,Pakki,1 ha,10-25000,No
+45,Female,Married,Hindu,4,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+44,Male,Married,Hindu,4,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+39,Male,Married,Hindu,7,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,1 ha,10-25000,No
+40,Male,Married,Hindu,4,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,1 ha,10-25000,No
+39,Male,Married,Hindu,5,Both Read & Write,Literate,Wage,No,Yes,Yes,Kachchi,1 ha,10-25000,No
+49,Male,Married,Hindu,5,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+56,Female,Married,Hindu,3,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+57,Male,Married,Buddhist,7,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,1 ha,10-25000,No
+38,Female,Married,Hindu,5,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,1 ha,10-25000,No
+36,Male,Married,Hindu,4,Both Read & Write,Plus Two,Agriculture,No,Yes,Yes,Kachchi,1 ha,10-25000,No
+27,Male,Married,Hindu,7,Both Read & Write,School Level,Wage,No,Yes,Yes,Kachchi,1 ha,10-25000,No
+32,Female,Married,Hindu,7,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+51,Male,Married,Hindu,10,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+59,Male,Married,Hindu,6,Both Read & Write,School Level,Government Job,Yes,Yes,Yes,Pakki,1 ha,10-25000,No
+50,Male,Married,Hindu,6,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+51,Female,Married,Hindu,6,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+60,Male,Married,Hindu,5,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+60,Female,Married,Hindu,7,Both Not Read & Write,Illiterate,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+61,Female,Married,Hindu,5,Both Not Read & Write,Illiterate,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+22,Male,Unmarried,Hindu,6,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+38,Male,Married,Buddhist,4,Both Read & Write,Plus Two,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+25,Male,Married,Hindu,6,Both Read & Write,Plus Two,Others,No,Yes,Yes,Pakki,1 ha,10-25000,No
+33,Male,Married,Hindu,5,Both Read & Write,Literate,Wage,No,Yes,Yes,Kachchi,1 ha,10-25000,Yes
+67,Male,Married,Hindu,9,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,1 ha,10-25000,Yes
+65,Male,Married,Hindu,4,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,1 ha,10-25000,Yes
+30,Male,Married,Hindu,5,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,Yes
+68,Male,Married,Hindu,11,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,1 ha,10-25000,Yes
+56,Male,Married,Hindu,6,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,1 ha,10-25000,Yes
+58,Male,Married,Hindu,5,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,1 ha,10-25000,Yes
+39,Male,Married,Hindu,4,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,1 ha,10-25000,Yes
+47,Male,Married,Hindu,4,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,1 ha,10-25000,Yes
+42,Male,Married,Hindu,5,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Kachchi,1 ha,10-25000,Yes
+47,Male,Married,Hindu,4,Both Read & Write,School Level,Agriculture,No,No,Yes,Kachchi,1 ha,10-25000,Yes
+22,Male,Married,Hindu,3,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Kachchi,1 ha,10-25000,Yes
+28,Male,Married,Hindu,4,Both Read & Write,School Level,Wage,No,Yes,Yes,Kachchi,1 ha,10-25000,Yes
+24,Male,Married,Hindu,3,Both Read & Write,School Level,Wage,No,Yes,Yes,Kachchi,1 ha,10-25000,Yes
+40,Male,Married,Buddhist,5,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,Yes
+22,Female,Married,Hindu,4,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,Yes
+36,Male,Married,Hindu,5,Both Read & Write,School Level,Wage,No,Yes,Yes,Kachchi,1 ha,10-25000,Yes
+59,Male,Married,Hindu,10,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Kachchi,1 ha,10-25000,Yes
+39,Female,Married,Buddhist,8,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,Yes
+48,Male,Married,Hindu,4,Both Read & Write,School Level,Agriculture,Yes,Yes,Yes,Pakki,1 ha,10-25000,Yes
+57,Male,Married,Hindu,5,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,Yes
+30,Male,Married,Hindu,8,Both Read & Write,School Level,Agriculture,No,No,Yes,Pakki,1 ha,>25000,No
+33,Male,Married,Hindu,8,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,>25000,No
+24,Male,Married,Hindu,6,Both Read & Write,School Level,Private Job,No,Yes,Yes,Pakki,1 ha,>25000,No
+46,Male,Married,Hindu,12,Both Read & Write,Plus Two,Government Job,Yes,No,Yes,Pakki,1 ha,>25000,No
+32,Male,Married,Buddhist,6,Both Read & Write,Plus Two,Business,No,Yes,Yes,Pakki,1 ha,>25000,No
+24,Male,Married,Hindu,5,Both Read & Write,Plus Two,Agriculture,No,Yes,Yes,Pakki,1 ha,>25000,No
+31,Male,Married,Buddhist,4,Both Read & Write,Plus Two,Government Job,Yes,Yes,Yes,Pakki,1 ha,>25000,No
+42,Female,Married,Hindu,8,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,>25000,No
+21,Female,Unmarried,Hindu,7,Both Read & Write,Plus Two,Agriculture,No,Yes,Yes,Pakki,1 ha,>25000,No
+53,Male,Married,Hindu,7,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,>25000,Yes
+38,Male,Married,Buddhist,6,Both Read & Write,Plus Two,Government Job,Yes,Yes,Yes,Pakki,1 ha,>25000,Yes
+41,Male,Married,Hindu,7,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,1 ha,5-10000,No
+28,Female,Married,Hindu,10,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+28,Female,Married,Hindu,6,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+27,Female,Married,Buddhist,6,Both Read & Write,Plus Two,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+47,Male,Married,Hindu,5,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,1 ha,5-10000,No
+28,Male,Unmarried,Hindu,7,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Kachchi,1 ha,5-10000,No
+53,Male,Married,Hindu,5,Both Read & Write,Literate,Wage,No,Yes,Yes,Kachchi,1 ha,5-10000,No
+32,Male,Married,Hindu,3,Both Read & Write,Plus Two,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+40,Male,Married,Hindu,5,Both Read & Write,School Level,Government Job,Yes,Yes,Yes,Pakki,1 ha,5-10000,No
+34,Male,Married,Hindu,6,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+25,Male,Unmarried,Hindu,5,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+42,Male,Married,Hindu,5,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+37,Male,Married,Hindu,4,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+38,Male,Married,Hindu,4,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+32,Male,Married,Hindu,5,Both Read & Write,Literate,Agriculture,No,Yes,No, ,1 ha,5-10000,No
+25,Male,Married,Hindu,4,Both Read & Write,Plus Two,Agriculture,No,Yes,Yes,Kachchi,1 ha,5-10000,No
+26,Male,Unmarried,Hindu,5,Both Read & Write,School Level,Wage,No,Yes,Yes,Kachchi,1 ha,5-10000,No
+33,Male,Married,Buddhist,6,Both Read & Write,School Level,Agriculture,Yes,Yes,Yes,Pakki,1 ha,5-10000,No
+50,Female,Married,Hindu,6,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+20,Male,Unmarried,Hindu,9,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+28,Male,Unmarried,Hindu,8,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+22,Male,Unmarried,Hindu,6,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+41,Male,Married,Hindu,5,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+21,Male,Unmarried,Hindu,4,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+21,Male,Unmarried,Hindu,4,Both Read & Write,Plus Two,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+52,Male,Married,Hindu,5,Both Read & Write,Literate,Business,No,Yes,Yes,Pakki,1 ha,5-10000,No
+36,Male,Married,Hindu,4,Both Read & Write,School Level,Business,No,Yes,Yes,Pakki,1 ha,5-10000,No
+35,Male,Married,Hindu,6,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+54,Male,Married,Hindu,4,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+43,Male,Married,Hindu,4,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Kachchi,1 ha,5-10000,No
+62,Male,Married,Hindu,7,Both Read & Write,Plus Two,Government Job,Yes,Yes,Yes,Kachchi,1 ha,5-10000,No
+58,Male,Married,Hindu,8,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+56,Male,Married,Hindu,4,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+57,Male,Married,Hindu,6,Both Not Read & Write,Illiterate,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+42,Male,Married,Buddhist,6,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+55,Male,Married,Hindu,5,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+35,Male,Married,Hindu,4,Both Read & Write,Plus Two,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+30,Female,Married,Hindu,3,Both Read & Write,Plus Two,Government Job,No,Yes,Yes,Pakki,1 ha,5-10000,No
+38,Male,Married,Hindu,6,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Kachchi,1 ha,5-10000,Yes
+65,Male,Married,Hindu,10,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,1 ha,5-10000,Yes
+58,Male,Married,Hindu,15,Both Read & Write,Plus Two,Government Job,Yes,Yes,Yes,Pakki,1 ha,5-10000,Yes
+47,Male,Married,Hindu,6,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,Yes
+54,Male,Married,Hindu,5,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,Yes
+37,Female,Married,Hindu,5,Both Read & Write,Plus Two,Government Job,Yes,Yes,Yes,Kachchi,1 ha,10-25000,No
+20,Male,Unmarried,Hindu,4,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+48,Male,Married,Hindu,5,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+52,Male,Married,Hindu,4,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+20,Female,Married,Hindu,5,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+27,Male,Married,Hindu,5,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+62,Male,Married,Hindu,5,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+26,Male,Unmarried,Hindu,4,Both Read & Write,Bachelor,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+27,Male,Married,Hindu,4,Both Read & Write,Bachelor,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+28,Male,Married,Hindu,5,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+22,Male,Married,Hindu,4,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+49,Male,Married,Hindu,8,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+35,Male,Married,Buddhist,5,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+38,Male,Married,Hindu,4,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+27,Male,Married,Hindu,6,Both Read & Write,Plus Two,Government Job,No,Yes,Yes,Pakki,1 ha,10-25000,No
+38,Female,Married,Hindu,5,Both Read & Write,Literate,Business,No,Yes,Yes,Pakki,1 ha,10-25000,No
+23,Male,Unmarried,Hindu,4,Both Read & Write,School Level,Private Job,No,Yes,Yes,Kachchi,1 ha,10-25000,No
+26,Male,Married,Hindu,5,Both Read & Write,School Level,Private Job,No,Yes,Yes,Pakki,1 ha,10-25000,No
+24,Male,Married,Buddhist,6,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+34,Male,Married,Hindu,4,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+43,Male,Married,Hindu,4,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+32,Male,Married,Hindu,5,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+20,Male,Unmarried,Hindu,6,Both Read & Write,School Level,Others,No,No,Yes,Kachchi,1 ha,10-25000,No
+87,Male,Married,Hindu,4,Both Not Read & Write,Illiterate,Agriculture,No,Yes,Yes,Kachchi,1 ha,10-25000,No
+40,Male,Married,Hindu,5,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Kachchi,1 ha,10-25000,No
+38,Male,Married,Hindu,3,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Kachchi,1 ha,10-25000,No
+28,Female,Married,Buddhist,5,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+21,Female,Married,Hindu,7,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+21,Male,Unmarried,Hindu,6,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+36,Male,Married,Hindu,6,Both Read & Write,School Level,Wage,No,Yes,Yes,Pakki,1 ha,10-25000,No
+49,Male,Married,Hindu,4,Both Read & Write,Literate,Households,No,Yes,Yes,Pakki,1 ha,10-25000,No
+42,Male,Married,Hindu,4,Both Read & Write,Plus Two,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+31,Female,Married,Hindu,8,Both Read & Write,Bachelor,Others,No,Yes,Yes,Pakki,1 ha,10-25000,No
+37,Male,Married,Hindu,5,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,1 ha,10-25000,Yes
+50,Male,Married,Hindu,9,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,Yes
+36,Male,Married,Hindu,8,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,Yes
+41,Male,Married,Hindu,5,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,Yes
+22,Male,Unmarried,Hindu,4,Both Read & Write,School Level,Wage,No,Yes,Yes,Pakki,1 ha,>25000,No
+27,Male,Unmarried,Hindu,4,Both Read & Write,School Level,Others,No,Yes,Yes,Kachchi,1 ha,>25000,No
+35,Male,Married,Hindu,7,Both Read & Write,Plus Two,Agriculture,No,Yes,Yes,Pakki,1 ha,>25000,No
+20,Female,Married,Hindu,5,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,>25000,No
+21,Male,Married,Hindu,7,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,>25000,No
+28,Male,Unmarried,Hindu,5,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,>25000,No
+20,Male,Unmarried,Hindu,4,Only Read,Literate,Agriculture,No,Yes,Yes,Kachchi,1 ha,>25000,No
+50,Female,Married,Hindu,6,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,1 ha,>25000,No
+20,Male,Unmarried,Hindu,4,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Kachchi,1 ha,>25000,No
+27,Male,Unmarried,Hindu,6,Both Read & Write,Plus Two,Private Job,No,Yes,Yes,Pakki,1 ha,>25000,No
+26,Male,Unmarried,Hindu,2,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,>25000,No
+24,Male,Unmarried,Hindu,7,Both Read & Write,School Level,Others,No,Yes,Yes,Pakki,1 ha,>25000,No
+26,Male,Married,Buddhist,4,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,>25000,No
+34,Male,Married,Buddhist,11,Both Read & Write,Bachelor,Private Job,No,Yes,Yes,Pakki,1 ha,>25000,No
+48,Male,Married,Hindu,4,Both Read & Write,Bachelor,Government Job,Yes,Yes,Yes,Pakki,1 ha,>25000,No
+39,Female,Married,Buddhist,6,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,>25000,No
+37,Female,Married,Buddhist,14,Both Read & Write,School Level,Business,No,Yes,Yes,Pakki,1 ha,>25000,No
+41,Male,Married,Hindu,6,Both Read & Write,School Level,Business,No,Yes,Yes,Pakki,1 ha,>25000,No
+45,Male,Married,Hindu,4,Both Read & Write,School Level,Business,No,Yes,Yes,Pakki,1 ha,>25000,No
+20,Female,Unmarried,Hindu,4,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,>25000,No
+42,Male,Married,Hindu,5,Both Read & Write,Bachelor,Government Job,Yes,Yes,Yes,Pakki,1 ha,>25000,Yes
+42,Male,Married,Hindu,5,Both Read & Write,Bachelor,Government Job,Yes,Yes,Yes,Pakki,1 ha,>25000,Yes
+33,Male,Married,Buddhist,15,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,>25000,Yes
+67,Male,Married,Hindu,4,Both Read & Write,School Level,Business,No,Yes,Yes,Pakki,1 ha,>25000,Yes
+22,Female,Married,Hindu,3,Both Read & Write,Plus Two,Agriculture,No,Yes,Yes,Kachchi,1 ha,<5000,No
+25,Female,Married,Hindu,6,Both Read & Write,Plus Two,Agriculture,No,Yes,Yes,Kachchi,1 ha,<5000,No
+25,Male,Married,Hindu,4,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Kachchi,1 ha,5-10000,No
+41,Female,Married,Hindu,4,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Kachchi,1 ha,5-10000,No
+26,Female,Married,Hindu,4,Both Read & Write,Plus Two,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+30,Male,Married,Hindu,7,Both Read & Write,Literate,Agriculture,No,Yes,No, ,1 ha,5-10000,No
+25,Male,Married,Hindu,3,Both Read & Write,Plus Two,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+33,Male,Married,Hindu,8,Both Read & Write,Literate,Wage,No,Yes,Yes,Kachchi,1 ha,10-25000,No
+29,Female,Married,Hindu,4,Both Read & Write,Plus Two,Agriculture,No,Yes,Yes,Kachchi,1 ha,10-25000,No
+38,Male,Married,Hindu,6,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,1 ha,10-25000,Yes
+56,Male,Married,Hindu,4,Both Read & Write,Literate,Wage,No,Yes,Yes,Kachchi,1 ha,10-25000,Yes
+43,Male,Married,Hindu,4,Both Read & Write,School Level,Wage,No,Yes,Yes,Kachchi,1 ha,10-25000,Yes
+57,Male,Married,Hindu,12,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Kachchi,1 ha,10-25000,Yes
+38,Female,Married,Hindu,4,Both Read & Write,School Level,Wage,No,Yes,Yes,Kachchi,1 ha,10-25000,Yes
+50,Male,Married,Hindu,5,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+69,Male,Married,Hindu,6,Both Read & Write,Literate,Wage,No,Yes,Yes,Pakki,1 ha,10-25000,No
+27,Male,Married,Hindu,7,Both Read & Write,Bachelor,Government Job,Yes,Yes,Yes,Pakki,1 ha,5-10000,No
+50,Male,Married,Buddhist,9,Both Read & Write,Bachelor,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+57,Male,Married,Buddhist,6,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+40,Male,Married,Buddhist,7,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+44,Male,Married,Buddhist,7,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,<1 ha,<5000,No
+45,Female,Married,Hindu,6,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+52,Male,Married,Hindu,9,Both Read & Write,Plus Two,Agriculture,No,No,Yes,Pakki,1 ha,>25000,No
+37,Male,Married,Hindu,4,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,>25000,No
+42,Male,Married,Hindu,4,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,>25000,Yes
+36,Male,Married,Hindu,4,Both Read & Write,Bachelor,Agriculture,Yes,Yes,Yes,Pakki,1 ha,>25000,Yes
+24,Male,Married,Hindu,3,Both Read & Write,Bachelor,Agriculture,No,Yes,Yes,Pakki,1 ha,>25000,Yes
+70,Male,Married,Hindu,5,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,>25000,No
+21,Male,Unmarried,Hindu,6,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+53,Male,Married,Hindu,6,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+20,Male,Unmarried,Hindu,6,Both Read & Write,Plus Two,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+63,Male,Married,Hindu,7,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,Yes
+45,Male,Married,Buddhist,6,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,Yes
+35,Male,Married,Hindu,5,Both Read & Write,Plus Two,Agriculture,No,Yes,Yes,Pakki,1 ha,>25000,No
+63,Male,Married,Hindu,7,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,>25000,No
+25,Male,Married,Hindu,5,Both Read & Write,Bachelor,Agriculture,No,Yes,Yes,Pakki,1 ha,>25000,No
+32,Male,Married,Hindu,6,Both Read & Write,Bachelor,Agriculture,No,Yes,Yes,Pakki,1 ha,>25000,Yes
+38,Male,Married,Buddhist,5,Both Read & Write,School Level,Government Job,Yes,Yes,Yes,Pakki,1 ha,>25000,Yes
+56,Male,Married,Hindu,7,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,>25000,Yes
+56,Male,Married,Hindu,4,Both Read & Write,Bachelor,Agriculture,No,Yes,Yes,Pakki,1 ha,>25000,Yes
+58,Male,Married,Hindu,5,Both Read & Write,Literate,Agriculture,Yes,Yes,Yes,Pakki,1 ha,>25000,Yes
+58,Male,Married,Hindu,7,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,>25000,Yes
+38,Male,Married,Hindu,8,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+21,Male,Unmarried,Hindu,7,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,5-10000,No
+25,Male,Married,Hindu,6,Both Read & Write,Plus Two,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,No
+43,Male,Married,Hindu,6,Both Read & Write,School Level,Business,No,Yes,Yes,Pakki,1 ha,10-25000,No
+25,Male,Unmarried,Hindu,5,Both Read & Write,School Level,Others,No,Yes,Yes,Pakki,1 ha,10-25000,No
+35,Female,Married,Hindu,5,Both Read & Write,School Level,Agriculture,Yes,Yes,Yes,Pakki,1 ha,10-25000,No
+53,Male,Married,Hindu,6,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,Yes
+61,Male,Married,Hindu,7,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,10-25000,Yes
+35,Male,Married,Hindu,7,Both Read & Write,Plus Two,Government Job,Yes,No,Yes,Pakki,1 ha,>25000,No
+31,Male,Married,Hindu,4,Both Read & Write,School Level,Agriculture,No,Yes,Yes,Pakki,1 ha,>25000,No
+38,Male,Married,Buddhist,6,Both Read & Write,Literate,Agriculture,No,Yes,Yes,Pakki,1 ha,>25000,No
