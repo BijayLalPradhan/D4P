@@ -116,7 +116,7 @@ user_id,age,gender,student,employed,cyc_freq,distance,time,speed
 115,33,F,1,1,>> per week,8.31,42,11.87
 116,29,F,0,0,>> per week,3.22,14,13.8
 117,46,M,0,1,Daily,8.14,40,12.21
-118,41,F,0,1,S>> per week,3,42,4.29
+118,41,F,0,1,>> per week,3,42,4.29
 119,44,F,0,1,Daily,7.84,48,9.8
 120,46,F,0,1,>> per week,5.88,26,13.57
 121,38,M,0,1,>> per week,9.01,41,13.19
